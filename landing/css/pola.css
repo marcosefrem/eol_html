@@ -1,0 +1,15 @@
+.full-height {
+    min-height: 100vh!important;
+    border:0!important;
+}
+
+@media (max-width: 767px){
+	
+	.second-text {
+    font-size: 27px;
+    line-height: 37.5px;
+	}
+	.margin-b-200 {
+	   margin-bottom: 100px!important;
+	}
+}
